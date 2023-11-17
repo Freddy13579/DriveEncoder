@@ -76,7 +76,7 @@ for file in os.listdir(dir):
         
         openf = open(file, "r")
         text = openf.read()
-        text2 = text
+        text2 = str(text)
         openf.close()
         os.remove(file)
         
