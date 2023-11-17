@@ -1,5 +1,5 @@
 # DriveEncoder
-### Version 1.0
+### Version 0.1
 
 This is a program which can encode or decode text files in a folder with a passworld.
 
